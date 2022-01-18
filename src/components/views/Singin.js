@@ -8,7 +8,7 @@ const Singin = () => {
             <section className='container-fluid'>
                 <div className='row'>
                     <section className='col-6'>
-                        <div className='card'>
+                        <div className='card bg-primary'>
 
                         </div>
                     </section>
