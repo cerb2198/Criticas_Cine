@@ -12,7 +12,7 @@ const Login = () => {
                 <div className='row'>
 
                     <div className='col-6'>
-                        <section className='card'>
+                        <section className='card bg-primary text-white'>
                             <section className="card-header text-center">
                                 <h1 className='display-5'>Inicie Sesión</h1>
                             </section>
@@ -24,7 +24,7 @@ const Login = () => {
                                     <input id='contra' className='form-control m-1' type='password' placeholder='*******'></input>
 
                                     <div className='m-3'>
-                                        <p className='text-primary'>
+                                        <p className='text-white'>
                                             ¿No tienes cuenta? <Link to='/singin'>Registrate aquí.</Link>
                                         </p>
                                     </div>
